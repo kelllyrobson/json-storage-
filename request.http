@@ -1,0 +1,7 @@
+POST https://json-storage-c5bh.onrender.com/
+content-type: application/json
+
+{
+  "player": "kelly",
+  "score": 2
+}
