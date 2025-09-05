@@ -1,7 +1,13 @@
-POST https://json-storage-c5bh.onrender.com/
+GET http://localhost:3000/
+
+###
+
+POST http://localhost:3000/
 content-type: application/json
 
+
+
 {
-  "player": "kelly",
-  "score": 2
+    "player": "kelly",
+    "score": 3
 }
